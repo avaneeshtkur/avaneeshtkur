@@ -118,4 +118,4 @@ LangChain | LangGraph | Ollama | Whisper | faster-whisper | sentence-transformer
 - Phone: +91 9004285387
 - Instagram: [avaneeshtkur](https://instagram.com/avaneeshtkur)
 - TopCoder: [Profile](https://www.topcoder.com/members/400001)
-- LinkedIn: [Add your LinkedIn URL here]
+- LinkedIn: https://www.linkedin.com/in/avaneesh-thakur-766b35266/
