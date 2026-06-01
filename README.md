@@ -101,16 +101,7 @@ LangChain | LangGraph | Ollama | Whisper | faster-whisper | sentence-transformer
 
 ---
 
-## GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=avaneeshtkur&show_icons=true&rank_icon=github" />
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avaneeshtkur&layout=compact" />
-</p>
-
----
 
 ## Contact
 
